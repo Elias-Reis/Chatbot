@@ -18,9 +18,7 @@ sua chave (ex: "Chatbot Aula") e clique em "Create Key".
 ### Configuração da API
 No código, substitua:
 
-'''
 api_key = 'SUA CHAVE'
-'''
 
 ---
 
