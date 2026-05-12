@@ -17,12 +17,12 @@ sua chave (ex: "Chatbot Aula") e clique em "Create Key".
 
 ### Configuração da API
 No código, substitua:
-
-' api_key = 'SUA CHAVE'
-
+'''
+api_key = 'SUA CHAVE'
+'''
 ---
 
-# 🤖 Minha_IA
+# Minha_IA
 
 Um chatbot simples desenvolvido em Python utilizando:
 
@@ -35,7 +35,7 @@ O projeto simula uma conversa contínua com histórico de mensagens armazenado d
 
 ---
 
-# 🚀 Tecnologias Utilizadas
+# Tecnologias Utilizadas
 
 - Python 3.10+
 - LangChain
@@ -54,8 +54,8 @@ LLM (Large Language Model);
 
 ### Modelo de IA treinado com grandes volumes de texto.
 
-## 👨‍💻 Autor
+## Autor
 Desenvolvido para estudos de IA e integração com modelos generativos usando Python.
 
-## 📄 Licença
+## Licença
 Este projeto está sob a licença MIT.
