@@ -16,7 +16,8 @@ sua chave (ex: "Chatbot Aula") e clique em "Create Key".
 
 Configuração da API
 No código, substitua:
-'api_key = 'SUA CHAVE''
+
+api_key = 'SUA CHAVE'
 
 ###########
 
@@ -42,18 +43,18 @@ O projeto simula uma conversa contínua com histórico de mensagens armazenado d
 
 ---
 
-Conceitos Utilizados
+##Conceitos Utilizados
 LangChain;
 Framework para construção de aplicações com LLMs.;
 Prompt Template;
 
-Estrutura que organiza mensagens para o modelo.
+##Estrutura que organiza mensagens para o modelo.
 LLM (Large Language Model);
 
-Modelo de IA treinado com grandes volumes de texto.
+###Modelo de IA treinado com grandes volumes de texto.
 
-👨‍💻 Autor
+##👨‍💻 Autor
 Desenvolvido para estudos de IA e integração com modelos generativos usando Python.
 
-📄 Licença
+##📄 Licença
 Este projeto está sob a licença MIT.
