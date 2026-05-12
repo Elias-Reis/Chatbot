@@ -1,25 +1,26 @@
 # Chatbot
 Meu primeiro chat bot
+---
 
-##Para gerar a API KEY:
+## Para gerar a API KEY:
 
-Acesse o Site
+### Acesse o Site
 Vá em console.groq.com e clique em "Sign Up" para iniciar o processo de registro.
 
-Crie Sua Conta
+### Crie Sua Conta
 Use sua conta GitHub, Google ou e-mail. Confirme seu e-mail se for solicitado para
 ativar sua conta.
 
-Gere a Key
+### Gere a Key
 No dashboard, navegue até "API Keys" e selecione "Create API Key". Dê um nome à
 sua chave (ex: "Chatbot Aula") e clique em "Create Key".
 
-Configuração da API
+### Configuração da API
 No código, substitua:
 
-api_key = 'SUA CHAVE'
+' api_key = 'SUA CHAVE'
 
-###########
+---
 
 # 🤖 Minha_IA
 
